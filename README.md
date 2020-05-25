@@ -1,2 +1,2 @@
 # gti-yasdi-iot
-SMA yasdi protocol to IOT and Influxdb
+Using SMA YASDI protocol to IOT and Influxdb
